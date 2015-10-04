@@ -1,0 +1,6 @@
+Starting Build
+Settings evaluated using empty settings script.
+Projects loaded. Root project using build file 'C:\Users\shadow\minecrafttoolbox\Moddings\Workplace\forge-1.7.10-10.13.0.1180-src\build.gradle'.
+Included projects: [root project 'forge-1.7.10-10.13.0.1180-src']
+Evaluating root project 'forge-1.7.10-10.13.0.1180-src' using build file 'C:\Users\shadow\minecrafttoolbox\Moddings\Workplace\forge-1.7.10-10.13.0.1180-src\build.gradle'.
+^C
